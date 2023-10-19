@@ -1,0 +1,17 @@
+.blue {
+  background-color: #2db7f5
+}
+/*.tb:hover {*/
+/*    background-color: #2db7f5 !important;*/
+/*}*/
+
+.tb {
+    background-color: #2db7f5;
+}
+
+.tb td {
+    background-color: #2db7f5 !important;
+}
+
+
+
